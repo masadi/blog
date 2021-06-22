@@ -1,0 +1,29 @@
+.label-success{
+    background-color: #4fca6b;
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+    padding: 8px 15px;
+  }
+  .label-success h4{
+    margin-bottom: 0;
+  }
+  tbody img{
+    width: 200px;
+    height: 200px;
+  }
+  .table-bordered{
+    background-color: #ffffff;
+  }
+  .badge-success {
+    color: #fff;
+    background-color: #28a745;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 10px;
+    border-radius: 0;
+    padding: 6px 7px;
+  }
+  .badge-success p{
+    margin-bottom: 6px;
+  }
